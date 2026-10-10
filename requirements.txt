@@ -1,0 +1,6 @@
+sqlalchemy>=2
+pymysql
+python-dotenv
+sqlglot
+anthropic
+streamlit
